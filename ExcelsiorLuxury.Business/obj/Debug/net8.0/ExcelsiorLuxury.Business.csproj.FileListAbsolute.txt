@@ -1,0 +1,5 @@
+C:\Users\miguel.zapata\OneDrive - OneWorkplace\Escritorio\API PERSONAL\ExcelsiorLuxury.API\ExcelsiorLuxury.Business\obj\Debug\net8.0\ExcelsiorLuxury.Business.csproj.AssemblyReference.cache
+C:\Users\miguel.zapata\OneDrive - OneWorkplace\Escritorio\API PERSONAL\ExcelsiorLuxury.API\ExcelsiorLuxury.Business\obj\Debug\net8.0\ExcelsiorLuxury.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel.zapata\OneDrive - OneWorkplace\Escritorio\API PERSONAL\ExcelsiorLuxury.API\ExcelsiorLuxury.Business\obj\Debug\net8.0\ExcelsiorLuxury.Business.AssemblyInfoInputs.cache
+C:\Users\miguel.zapata\OneDrive - OneWorkplace\Escritorio\API PERSONAL\ExcelsiorLuxury.API\ExcelsiorLuxury.Business\obj\Debug\net8.0\ExcelsiorLuxury.Business.AssemblyInfo.cs
+C:\Users\miguel.zapata\OneDrive - OneWorkplace\Escritorio\API PERSONAL\ExcelsiorLuxury.API\ExcelsiorLuxury.Business\obj\Debug\net8.0\ExcelsiorLuxury.Business.csproj.CoreCompileInputs.cache
