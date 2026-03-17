@@ -1,0 +1,7 @@
+C:\Users\miguel.zapata\OneDrive - OneWorkplace\Escritorio\API PERSONAL\ExcelsiorLuxury.API\ExcelsiorLuxury.API\obj\Debug\net8.0\ExcelsiorLuxury.API.csproj.AssemblyReference.cache
+C:\Users\miguel.zapata\OneDrive - OneWorkplace\Escritorio\API PERSONAL\ExcelsiorLuxury.API\ExcelsiorLuxury.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\miguel.zapata\OneDrive - OneWorkplace\Escritorio\API PERSONAL\ExcelsiorLuxury.API\ExcelsiorLuxury.API\obj\Debug\net8.0\ExcelsiorLuxury.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel.zapata\OneDrive - OneWorkplace\Escritorio\API PERSONAL\ExcelsiorLuxury.API\ExcelsiorLuxury.API\obj\Debug\net8.0\ExcelsiorLuxury.API.AssemblyInfoInputs.cache
+C:\Users\miguel.zapata\OneDrive - OneWorkplace\Escritorio\API PERSONAL\ExcelsiorLuxury.API\ExcelsiorLuxury.API\obj\Debug\net8.0\ExcelsiorLuxury.API.AssemblyInfo.cs
+C:\Users\miguel.zapata\OneDrive - OneWorkplace\Escritorio\API PERSONAL\ExcelsiorLuxury.API\ExcelsiorLuxury.API\obj\Debug\net8.0\ExcelsiorLuxury.API.csproj.CoreCompileInputs.cache
+C:\Users\miguel.zapata\OneDrive - OneWorkplace\Escritorio\API PERSONAL\ExcelsiorLuxury.API\ExcelsiorLuxury.API\obj\Debug\net8.0\ExcelsiorLuxury.API.MvcApplicationPartsAssemblyInfo.cache
