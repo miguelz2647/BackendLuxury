@@ -1,6 +1,0 @@
-@ExcelsiorLuxury.API_HostAddress = http://localhost:5228
-
-GET {{ExcelsiorLuxury.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

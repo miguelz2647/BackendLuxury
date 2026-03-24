@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="../ExcelsiorLuxury.Business/ExcelsiorLuxury.Business.csproj" Id="a93715dc-3514-404f-9695-9916e6f252a7" />
-  <Project Path="../ExcelsiorLuxury.Data/ExcelsiorLuxury.Data.csproj" Id="729115f8-c8f9-4754-a631-45a0cc614f99" />
-  <Project Path="ExcelsiorLuxury.API.csproj" />
-</Solution>
